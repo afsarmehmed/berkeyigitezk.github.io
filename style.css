@@ -1,0 +1,12 @@
+.container{
+  width: 1000px;
+  height: 1000px;
+  position:absolute;
+  left: 35%;
+  color: white;
+  top: 0%;
+}
+body {
+    background-image: url("şahin.jpg");
+    background-color: #cccccc;
+   }
